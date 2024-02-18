@@ -1,3 +1,3 @@
 # Zomato-Project
-"Zomato Expansion Strategy Analysis"
-[Project Link]([your_google_drive_link](https://docs.google.com/presentation/d/1g8UtK3xvKchZMmrzVD9-IbS-NvAelNfcBd6myALdiDw/edit?usp=drive_link)https://docs.google.com/presentation/d/1g8UtK3xvKchZMmrzVD9-IbS-NvAelNfcBd6myALdiDw/edit?usp=drive_link)
+"Zomato Expansion Strategy Analysis" Project Link - https://docs.google.com/spreadsheets/d/1dnJqobX-sIsla9NwSHbrxX2QUQR9bF0c/edit?usp=drive_link&ouid=108420093984134703478&rtpof=true&sd=true
+
